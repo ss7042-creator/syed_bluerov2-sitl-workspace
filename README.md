@@ -4,6 +4,7 @@ A ROS2 workspace for simulating and controlling a BlueROV2 Heavy underwater vehi
 
 ---
 
+
 ## What's in Here
 
 **Simulation environment documentation.** Getting ArduSub SITL, Gazebo Harmonic, the BlueROV2 Heavy model, and MAVROS2 all talking to each other involves several moving parts that are easy to get wrong. The setup guide walks through each dependency in order and explains what each layer does, so the environment is reproducible and failures are diagnosable.
